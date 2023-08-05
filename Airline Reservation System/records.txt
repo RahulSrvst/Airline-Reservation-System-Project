@@ -1,0 +1,10 @@
+_____________XYZ Airlines____________
+______________Ticket_________________
+_____________________________________
+Customer ID:89
+Customer Name:Rahul
+Customer Gender:Male
+	Description
+
+Destination		USA
+Flight cost :		42000
